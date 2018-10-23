@@ -1,2 +1,2 @@
 # tecra
-php tercra
+php tecra
